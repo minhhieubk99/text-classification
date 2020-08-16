@@ -1,4 +1,4 @@
-# text-classification
+# Text-classification
 Naive Bayes Classifier for Text Classification
 
 ## Training dataset
